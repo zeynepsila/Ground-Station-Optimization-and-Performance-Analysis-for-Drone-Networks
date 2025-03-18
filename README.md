@@ -1,2 +1,2 @@
-# BitirmeProjesi
-Dron ağları için yer istasyonu tasarımı ve üç farklı senaryo için 7 farklı optimizasyon algoritmasında ( pso, gwo, aco, ga, dea, goa, abc) dron istasyon atamasının gerçekleştirilmesi ve performans karşılaştırılması 
+# Ground Station Optimization and Performance Analysis for Drone Networks
+Conducted an optimization and performance analysis study for ground station placement in drone networks using Python. Implemented seven different optimization algorithms (PSO, GWO, ACO, GA, DEA, GOA, ABC) across three distinct scenarios to assign drones to optimal ground station locations. Evaluated and compared algorithm performance thoroughly, presenting efficiency and accuracy results through detailed visual analyses.
